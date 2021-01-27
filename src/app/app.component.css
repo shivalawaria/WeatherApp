@@ -1,0 +1,18 @@
+.tile {
+    padding: 20px;
+    background: #80808047;
+    width: 19%;
+    border-radius: 10px;
+    height: 200px;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-title{
+    color: #5b5b5b;
+    text-align: center;
+    font-size: 46px;
+}
